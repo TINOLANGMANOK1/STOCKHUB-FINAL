@@ -1,0 +1,10 @@
+[
+    {
+        "itemId": "IT001",
+        "itemName": "A4 Paper",
+        "currentStock": 5,
+        "suggestedRestock": 15,
+        "suggestedBasedOn": "Based on sales trends over the past 2 weeks"
+    }
+
+]
